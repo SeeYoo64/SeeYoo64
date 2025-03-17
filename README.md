@@ -14,7 +14,7 @@
 ---
 
 ### :man_technologist: About Me : 
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+- I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - Finished Technical School of Industrial Automatics and Information Technologies || Junior Specialist
 - Ukrainian – Proficient
 - English – Intermediate
